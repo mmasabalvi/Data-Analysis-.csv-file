@@ -1,4 +1,4 @@
-# Data-Analysis-.csv-file
+# Data Analysis on .csv Files
 This repository holds 2 different files performing Data Analysis on a given Data set in .csv files. 
 
 The Files perform:
