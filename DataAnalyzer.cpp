@@ -1,5 +1,4 @@
-//Muhammad Masab Hammad 
-//22I-1004
+
 
 
 #include"DataAnalyzer.h"
