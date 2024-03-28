@@ -1,5 +1,5 @@
 # Data Analysis on .csv Files
-This repository holds 2 different files performing Data Analysis on a given Data set in .csv files. 
+This repository holds 2 different files performing Data Analysis on a given Data set in .csv files in C++.
 
 The Files perform:
 - Simple Statistical Operations including Mean, Mode, Median, Variance and Standard Deviation.
